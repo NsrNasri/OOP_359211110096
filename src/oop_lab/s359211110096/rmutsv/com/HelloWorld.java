@@ -7,8 +7,7 @@ public class HelloWorld
       System.out.println("Hello world, I'm Nsrnasri");
       System.out.println("My name is Muhammadnasri sa-ih");
 //  add information
-        System.out.println("Faculty:Management Technology");
-        System.out.println("RMUTSV");
+        System.out.println("Faculty:Management Technology,RMUTSV");
     }//nain
 
 }//class
