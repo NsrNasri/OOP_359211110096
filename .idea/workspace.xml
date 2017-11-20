@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81eba76d-ea32-48c6-8ba5-b8081e14113f" name="Default" comment="" />
+    <list default="true" id="81eba76d-ea32-48c6-8ba5-b8081e14113f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110096/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110096/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../OOP_359211110096/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -102,7 +104,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="vcs.patch.path" value="$PROJECT_DIR$/../OOP_359211110096" />
   </component>
   <component name="RunDashboard">
@@ -202,6 +204,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\LABCOM_6\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -316,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511159048556</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add Information">
+      <created>1511159053213</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1511159053213</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
