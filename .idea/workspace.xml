@@ -32,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myarray2D.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myarray2D.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/myarray2D.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -44,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/OperatorArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+            <state relative-caret-position="50">
+              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -607,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514193309237</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="myArray2D">
+      <created>1514193327457</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1514193327457</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -658,7 +665,8 @@
     <MESSAGE value="OperatorArray" />
     <MESSAGE value="myArray" />
     <MESSAGE value="InputDataToArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="InputDataToArray" />
+    <MESSAGE value="myArray2D" />
+    <option name="LAST_COMMIT_MESSAGE" value="myArray2D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -853,14 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/OperatorArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/myArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -904,6 +904,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/OperatorArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
