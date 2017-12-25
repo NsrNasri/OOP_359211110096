@@ -44,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/OperatorArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
@@ -54,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortingArray.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SortingArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/SortingArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="85" column="8" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+            <state relative-caret-position="375">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1802#1803#0" expanded="true" />
@@ -614,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514193327457</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="OperatorArray">
+      <created>1514193350085</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1514193350085</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -662,11 +669,11 @@
     <MESSAGE value="Test condition" />
     <MESSAGE value="Swich input" />
     <MESSAGE value="Input Score with Grade" />
-    <MESSAGE value="OperatorArray" />
     <MESSAGE value="myArray" />
     <MESSAGE value="InputDataToArray" />
     <MESSAGE value="myArray2D" />
-    <option name="LAST_COMMIT_MESSAGE" value="myArray2D" />
+    <MESSAGE value="OperatorArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="OperatorArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -869,18 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/SortingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="85" column="8" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1802#1803#0" expanded="true" />
-            <element signature="e#1869#1870#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/myArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -912,6 +907,18 @@
         <state relative-caret-position="50">
           <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110096/src/ooplap5/SortingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1802#1803#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
