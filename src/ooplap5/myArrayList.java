@@ -2,7 +2,7 @@ package ooplap5;
 
 import java.util.ArrayList;
 
-public class myArrayList {
+    public class myArrayList {
     public static void main(string[] args){
         ArrayList myList = new ArrayList();
         //add method
