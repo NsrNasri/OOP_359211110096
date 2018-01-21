@@ -2,7 +2,7 @@ package ooplab7;
 
 import java.util.Scanner;
 
-public class test3_2 {
+public class test2 {
 
     public static void main(String[] args) {
         int id = Id();
@@ -54,7 +54,7 @@ public class test3_2 {
         }
     }
     private static void showData(int id, String name, float salary, float overtime){
-        test3_2 y = new test3_2();
+        test2 y = new test2();
         System.out.println("ID :"+ id);
         System.out.println("Name :"+ name);
         System.out.println("salary :"+ salary);
