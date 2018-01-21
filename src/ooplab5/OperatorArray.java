@@ -1,4 +1,4 @@
-package ooplap5;
+package ooplab5;
 
 public class OperatorArray {
     public static void main(String[] args) {

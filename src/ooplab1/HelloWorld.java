@@ -1,4 +1,4 @@
-package oop_lab.s359211110096.rmutsv.com;
+package ooplab1;
 
 public class HelloWorld
 {

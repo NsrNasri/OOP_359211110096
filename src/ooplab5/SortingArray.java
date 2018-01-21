@@ -1,4 +1,4 @@
-package ooplap5;
+package ooplab5;
 //1. allow user inout data into array
 //2. fine summation of data in array
 //3. find average value in array

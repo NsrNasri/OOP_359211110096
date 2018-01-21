@@ -1,4 +1,4 @@
-package ooplap5;
+package ooplab5;
 
 public class myArray {
     public static int Max = 10;
