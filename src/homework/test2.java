@@ -1,4 +1,4 @@
-package ooplab7;
+package homework;
 
 import java.util.Scanner;
 
