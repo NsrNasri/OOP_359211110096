@@ -1,21 +1,20 @@
 package ooplab6;
 
-import jdk.nashorn.internal.ir.WhileNode;
-
 import java.util.StringTokenizer;
 
 public class myStrToken {
     public static void main(String[] args) {
-//        stringTokenizer
+//        StringTokenizer ใช้เม็ดดอทเพื่อทำการอัพ token
         String msg = "Welcome to RMUTSV";
-        StringTokenizer myToken = new myStrToken(msg);
-        System.out.println(myToken.countTokens());
-        While (myToken.hasMoreElements()){
-            myStringBuffer myBuffer = new StringBuffer(
-            myToken.nextToken());
-            System.out.println(myBuffer.reverse()+" ");
+        StringTokenizer myToken = new StringTokenizer(msg);
+        System.out.println(myToken.countTokens()); //การนับจำนวนคำ
 
+        while (myToken.hasMoreElements()){ //คำสั่งใช้อ่านคำทีละคำไปจนถึงคำสุดท้าย
+            StringBuffer myBuff = new StringBuffer(myToken.nextToken()); //nextToken การอ่านคำทีละคำ
+            System.out.println(myBuff.reverse()+" ");
         }
+
+
 
     }//main
 }//class
