@@ -24,6 +24,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab7/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="myStrBuffer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myStrToken.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myStrToken.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrToken.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -163,12 +173,6 @@
               <item name="OOP_359211110096" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP_359211110096" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_359211110096" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_359211110096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ooplab6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OOP_359211110096" type="b2602c69:ProjectViewProjectNode" />
@@ -410,13 +414,6 @@
       <updated>1511059453662</updated>
       <workItem from="1516458388860" duration="1141000" />
       <workItem from="1516511815522" duration="840000" />
-    </task>
-    <task id="LOCAL-00012" summary="Add Information">
-      <created>1511158100042</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1511158100042</updated>
     </task>
     <task id="LOCAL-00013" summary="Add Information">
       <created>1511158919876</created>
@@ -754,7 +751,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517075958642</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="myStrToken">
+      <created>1517075980079</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1517075980079</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -800,7 +804,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TsstMethods" />
     <MESSAGE value="tes1 Age" />
     <MESSAGE value="tes1" />
     <MESSAGE value="TestAge" />
@@ -825,7 +828,8 @@
     <MESSAGE value="compareString" />
     <MESSAGE value="myStrBuffer" />
     <MESSAGE value="myString" />
-    <option name="LAST_COMMIT_MESSAGE" value="myString" />
+    <MESSAGE value="myStrToken" />
+    <option name="LAST_COMMIT_MESSAGE" value="myStrToken" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -985,6 +989,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1009,14 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab7/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1185,6 +1182,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab7/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="20" />
           <folding />
         </state>
       </provider>
