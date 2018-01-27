@@ -54,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TseVanable.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TseVanable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab2/TseVanable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalGrade.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab3/CalGrade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -178,7 +188,7 @@
               <item name="OOP_359211110096" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP_359211110096" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ooplab2" type="462c0819:PsiDirectoryNode" />
+              <item name="ooplab3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OOP_359211110096" type="b2602c69:ProjectViewProjectNode" />
@@ -729,7 +739,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517075425249</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="TseVanable">
+      <created>1517075453572</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1517075453572</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -775,7 +792,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Testing Upload to Githun" />
     <MESSAGE value="Add Information" />
     <MESSAGE value="Variables and types" />
     <MESSAGE value="Input Data" />
@@ -800,7 +816,8 @@
     <MESSAGE value="SuperCar" />
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="TestInputData" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestInputData" />
+    <MESSAGE value="TseVanable" />
+    <option name="LAST_COMMIT_MESSAGE" value="TseVanable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -967,13 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab3/CalGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1144,6 +1154,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab3/CalGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
           <folding />
         </state>
       </provider>
