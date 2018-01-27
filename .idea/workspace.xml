@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="compareString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="compareString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab6/compareString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myStrBuffer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -381,13 +391,6 @@
       <workItem from="1516458388860" duration="1141000" />
       <workItem from="1516511815522" duration="840000" />
     </task>
-    <task id="LOCAL-00009" summary="Add Information">
-      <created>1511063013758</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1511063013758</updated>
-    </task>
     <task id="LOCAL-00010" summary="Add Information">
       <created>1511063388839</created>
       <option name="number" value="00010" />
@@ -724,7 +727,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517075868612</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="compareString">
+      <created>1517075902985</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1517075902985</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -771,7 +781,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Input Score with Grade" />
-    <MESSAGE value="compareString" />
     <MESSAGE value="myStrBuffer" />
     <MESSAGE value="TsstMethods" />
     <MESSAGE value="tes1 Age" />
@@ -795,7 +804,8 @@
     <MESSAGE value="myArrayList" />
     <MESSAGE value="OperatorArray" />
     <MESSAGE value="SortingArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortingArray" />
+    <MESSAGE value="compareString" />
+    <option name="LAST_COMMIT_MESSAGE" value="compareString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -955,13 +965,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1152,6 +1155,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
