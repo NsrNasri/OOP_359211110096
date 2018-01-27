@@ -54,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab5/OperatorArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortingArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab5/SortingArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -428,13 +438,6 @@
       <workItem from="1516458388860" duration="1141000" />
       <workItem from="1516511815522" duration="840000" />
     </task>
-    <task id="LOCAL-00007" summary="Add Information">
-      <created>1511062510318</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1511062510318</updated>
-    </task>
     <task id="LOCAL-00008" summary="Add Information">
       <created>1511062928300</created>
       <option name="number" value="00008" />
@@ -771,7 +774,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517075823001</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="OperatorArray">
+      <created>1517075840345</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1517075840345</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -818,7 +828,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Input Score with Grade" />
-    <MESSAGE value="OperatorArray" />
     <MESSAGE value="SortingArray" />
     <MESSAGE value="compareString" />
     <MESSAGE value="myStrBuffer" />
@@ -842,7 +851,8 @@
     <MESSAGE value="myArray" />
     <MESSAGE value="myArray2D" />
     <MESSAGE value="myArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="myArrayList" />
+    <MESSAGE value="OperatorArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="OperatorArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1026,13 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab5/SortingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/homework/TestEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -1197,6 +1200,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab5/SortingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
           <folding />
         </state>
       </provider>
