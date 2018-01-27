@@ -74,11 +74,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestCondition.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestCondition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab3/TestCondition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestForLoop.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab3/TestForLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -763,7 +773,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517075484550</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="TestCondition">
+      <created>1517075514600</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1517075514600</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -809,7 +826,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Variables and types" />
     <MESSAGE value="Input Data" />
     <MESSAGE value="Testing input agin" />
     <MESSAGE value="Test condition" />
@@ -834,7 +850,8 @@
     <MESSAGE value="TestInputData" />
     <MESSAGE value="TseVanable" />
     <MESSAGE value="CalGrade" />
-    <option name="LAST_COMMIT_MESSAGE" value="CalGrade" />
+    <MESSAGE value="TestCondition" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestCondition" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -990,13 +1007,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab2/TesVanabable.java" />
     <entry file="file://$PROJECT_DIR$/src/ooplab3.java" />
-    <entry file="file://$PROJECT_DIR$/src/ooplab3/TestForLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab3/TestSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
@@ -1180,6 +1190,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab3/TestForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
