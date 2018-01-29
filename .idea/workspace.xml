@@ -94,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -104,7 +104,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -510,13 +510,6 @@
       <workItem from="1516458388860" duration="1141000" />
       <workItem from="1516511815522" duration="840000" />
     </task>
-    <task id="LOCAL-00024" summary="Test condition">
-      <created>1511774380338</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1511774380338</updated>
-    </task>
     <task id="LOCAL-00025" summary="Swich input">
       <created>1511774685958</created>
       <option name="number" value="00025" />
@@ -853,7 +846,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517215818959</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="ShapeApp">
+      <created>1517215828429</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1517215828429</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -918,13 +918,13 @@
     <MESSAGE value="PetApp" />
     <MESSAGE value="Shape" />
     <MESSAGE value="Triangle" />
-    <MESSAGE value="ShapeApp" />
     <MESSAGE value="Campus" />
     <MESSAGE value="Saiyai" />
     <MESSAGE value="Trang" />
     <MESSAGE value="CampusApp" />
     <MESSAGE value="Rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rectangle" />
+    <MESSAGE value="ShapeApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="ShapeApp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1266,21 +1266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1354,6 +1339,21 @@
         <state relative-caret-position="44">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
