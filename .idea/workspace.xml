@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81eba76d-ea32-48c6-8ba5-b8081e14113f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Saiyai.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab8/Campus.java" afterPath="$PROJECT_DIR$/src/ooplab8/Campus.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -80,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -483,13 +481,6 @@
       <workItem from="1516458388860" duration="1141000" />
       <workItem from="1516511815522" duration="840000" />
     </task>
-    <task id="LOCAL-00017" summary="Add Information">
-      <created>1511159900076</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1511159900076</updated>
-    </task>
     <task id="LOCAL-00018" summary="Add Information">
       <created>1511160342224</created>
       <option name="number" value="00018" />
@@ -826,7 +817,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517214994183</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Triangle">
+      <created>1517215154000</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1517215154001</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -872,7 +870,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mySuperCar" />
     <MESSAGE value="SuperCar" />
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="TestInputData" />
@@ -897,7 +894,8 @@
     <MESSAGE value="PetApp" />
     <MESSAGE value="Shape" />
     <MESSAGE value="Rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rectangle" />
+    <MESSAGE value="Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1291,6 +1289,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Saiyai.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1304,21 +1317,6 @@
         <state relative-caret-position="44">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
