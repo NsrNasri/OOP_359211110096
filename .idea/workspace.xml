@@ -79,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -94,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -510,13 +510,6 @@
       <workItem from="1516458388860" duration="1141000" />
       <workItem from="1516511815522" duration="840000" />
     </task>
-    <task id="LOCAL-00023" summary="Testing input agin">
-      <created>1511766738176</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1511766738176</updated>
-    </task>
     <task id="LOCAL-00024" summary="Test condition">
       <created>1511774380338</created>
       <option name="number" value="00024" />
@@ -853,7 +846,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517215802307</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Rectangle">
+      <created>1517215818959</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1517215818959</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -917,14 +917,14 @@
     <MESSAGE value="Student" />
     <MESSAGE value="PetApp" />
     <MESSAGE value="Shape" />
-    <MESSAGE value="Rectangle" />
     <MESSAGE value="Triangle" />
     <MESSAGE value="ShapeApp" />
     <MESSAGE value="Campus" />
     <MESSAGE value="Saiyai" />
     <MESSAGE value="Trang" />
     <MESSAGE value="CampusApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="CampusApp" />
+    <MESSAGE value="Rectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rectangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1281,14 +1281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1354,6 +1346,14 @@
             <element signature="e#182#183#0" expanded="true" />
             <element signature="e#239#240#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
