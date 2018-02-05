@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81eba76d-ea32-48c6-8ba5-b8081e14113f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/CarApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Cow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/PersonApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab8/Cat.java" afterPath="$PROJECT_DIR$/src/ooplab8/Cat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab8/Dog.java" afterPath="$PROJECT_DIR$/src/ooplab8/Dog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab8/Pet.java" afterPath="$PROJECT_DIR$/src/ooplab8/Pet.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
@@ -91,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/Address.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="20" />
               <folding>
                 <element signature="e#608#609#0" expanded="true" />
                 <element signature="e#641#642#0" expanded="true" />
@@ -539,13 +528,6 @@
       <workItem from="1516458388860" duration="1141000" />
       <workItem from="1516511815522" duration="840000" />
     </task>
-    <task id="LOCAL-00025" summary="Swich input">
-      <created>1511774685958</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1511774685958</updated>
-    </task>
     <task id="LOCAL-00026" summary="Input Score with Grade">
       <created>1511776207355</created>
       <option name="number" value="00026" />
@@ -882,7 +864,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517215828429</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Person">
+      <created>1517818336925</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1517818336925</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -900,7 +889,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30377668" sideWeight="0.52420574" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24566929" sideWeight="0.47579426" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24566929" sideWeight="0.47579426" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10509031" sideWeight="0.8895613" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -928,7 +917,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TestCondition" />
     <MESSAGE value="TestForLoop" />
     <MESSAGE value="TestSwitch" />
     <MESSAGE value="OverloadMethod" />
@@ -953,7 +941,8 @@
     <MESSAGE value="CampusApp" />
     <MESSAGE value="Rectangle" />
     <MESSAGE value="ShapeApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="ShapeApp" />
+    <MESSAGE value="Person" />
+    <option name="LAST_COMMIT_MESSAGE" value="Person" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1331,27 +1320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1005#1006#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1389,6 +1357,27 @@
             <element signature="e#1160#1161#0" expanded="true" />
             <element signature="e#1195#1196#0" expanded="true" />
             <element signature="e#1225#1226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
           </folding>
         </state>
       </provider>
