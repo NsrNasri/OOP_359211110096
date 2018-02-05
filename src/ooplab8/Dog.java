@@ -8,7 +8,6 @@ public class Dog extends Pet {
 
     @Override
     public void makeNoise() {
-        super.makeNoise();
         System.out.println("Box Box !!!");
     }
 }//class

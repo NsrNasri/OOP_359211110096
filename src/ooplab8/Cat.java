@@ -7,7 +7,6 @@ public class Cat extends Pet{
 
     @Override
     public void makeNoise() {
-        super.makeNoise();
         System.out.println("MeawMeaw !!!");
 
     }
